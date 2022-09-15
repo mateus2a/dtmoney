@@ -23,10 +23,10 @@ A series of step-by-step examples that tell you what you must do to get a develo
 
 ```
 # Clone this repository
-$ git clone [https://github.com/mateus2a/watchme.git](https://github.com/FelipeBrenner/ignite-reactjs-dtmoney.git)
+$ git clone https://github.com/mateus2a/dtmoney.git
 
 # Access the project folder in the terminal/cmd
-$ cd watchme
+$ cd dtmoney
 
 # Install dependencies
 $ npm install
@@ -53,7 +53,7 @@ Here are all the contributors to the project.
 
 ## 📄 License
 
-This project is under the MIT license - see the [LICENSE.md](https://github.com/mateus2a/watchme/blob/main/LICENSE) file for details.
+This project is under the MIT license - see the [LICENSE.md](https://github.com/mateus2a/dtmoney/blob/main/LICENSE) file for details.
 
 ---
 
