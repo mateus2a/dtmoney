@@ -6,6 +6,15 @@ O dtmoney é uma aplicação de controle financeiro com a mesma ideia que o dev.
 
 These instructions allowed you to get a copy of the project running on your local machine for development and testing purposes.
 
+## 💰 Preview
+
+These instructions allowed you to get a copy of the project running on your local machine for development and testing purposes.
+
+<p align="center">
+  <img alt="dashboard" src="./public/dashboard.png" width="100%">
+  <img alt="cadastrar-transacao" src="./public/cadastrar-transacao.png" width="100%">
+</p>
+
 ### 📋 Prerequisites
 
 The following programs are required to use and modify the project.
@@ -15,7 +24,6 @@ The following programs are required to use and modify the project.
 - [NodeJs](https://nodejs.org/en/)
 
 - [NPM](https://nodejs.org/en/)
-
 
 ### 🔧 Instalation
 
@@ -58,4 +66,3 @@ This project is under the MIT license - see the [LICENSE.md](https://github.com/
 ---
 
 By [Mateus Alencar](https://github.com/mateus2a)
-
